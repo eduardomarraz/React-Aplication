@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+../chromedriver_linux64.zip
+../google-chrome-stable_current_x86_64.rpm
 
 # testing
 /coverage
@@ -21,3 +23,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+../chromedriver_linux64.zip
+../google-chrome-stable_current_x86_64.rpm
